@@ -44,11 +44,11 @@ An Excel Interactive Dashboard was created with:
 # ✅ Outcome:-This dashboard helps Fashion Store management make "data-driven decisions" to increase customer satisfaction and grow sales in 2023.
 
 # Sample Questions
-1.Compare the sales and orders using single chart
-2.Which month got the highest sales and orders?
-3.Who purchased more – men or women in 2022?
-4.What are different order status in 2022?
-5.List top 10 states contributing to the sales?
-6.Relation between age and gender based on number of orders?
-7.Which channel is contributing to maximum sales?
-8.Highest selling category?, etc.
+  Compare the sales and orders using single chart
+||Which month got the highest sales and orders?
+||Who purchased more – men or women in 2022?
+||What are different order status in 2022?
+||List top 10 states contributing to the sales?
+||Relation between age and gender based on number of orders?
+||Which channel is contributing to maximum sales?
+||Highest selling category?, etc.
